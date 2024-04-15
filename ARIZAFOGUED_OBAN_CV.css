@@ -1,0 +1,25 @@
+h1 {
+    color: black;
+}
+table {
+    border: #808080 1px solid;
+}
+ td, th {
+    border: #8e8e8e 1px solid; padding: 0,5em;
+}
+
+h2 {
+    color: black;
+}
+
+body {
+    background-color: azure;
+}
+
+.lista-letras {
+    list-style-type: upper-latin;
+}
+
+.lista-numeros-romanos {
+    list-style-type: lower-roman;
+}
